@@ -187,8 +187,8 @@ Ensure you have installed:
 #### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/activity-streak-tracker.git
-cd activity-streak-tracker
+git clone https://github.com/Aayushhh07/activity_tracker.git
+cd activity_tracker
 ```
 
 #### 2️⃣ Backend Setup
